@@ -1,7 +1,6 @@
 <p align="center">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Anindya-Das02/Calculator">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Anindya-Das02/Calculator">
-  <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/10750129">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Anindya-Das02/Calculator?color=lightgrey">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Anindya-Das02/Calculator">
   <img alt="GitHub" src="https://img.shields.io/github/license/Anindya-Das02/Calculator">
 </p>
