@@ -127,7 +127,7 @@ namespace Calculator
                 ts = ts.Trim();
                 if (LastCharValid(ts[ts.Length - 1]))
                 {
-                    InputTextBox.Text = "0 - ";
+                    InputTextBox.Text += " - ";
                 }
             }
         }
@@ -207,10 +207,7 @@ namespace Calculator
         {
             string queryExpression = InputTextBox.Text;
             InputTextBox.Text = Calculate(queryExpression);
-            if(InputTextBox.Text.ToLower() != "math error!")
-            {
-                OutputResult.Text = queryExpression;
-            }
+            OutputResult.Text = queryExpression;           
         }
 
         //=================================================================================================
